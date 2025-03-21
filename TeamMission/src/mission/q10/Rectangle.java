@@ -6,6 +6,9 @@ public class Rectangle {
 	private double height;
 
 	// 생성자
+	public Rectangle() {
+	}
+
 	public Rectangle(double width, double height) {
 		this.width  = width;
 		this.height = height;
