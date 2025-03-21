@@ -17,6 +17,8 @@ public class Q1 {
 		System.out.println("자바 점수 : " + java);
 		System.out.println("총점 : " + (eng+math+java));
 		System.out.print("평균 : " + ((eng+math+java)/3));
+		
+		sc.close();
 	}
 	
 }
