@@ -1,4 +1,4 @@
-package mission;
+package mission.jayoung.q14;
 import java.util.Scanner;
 
 public class StudentScore {
