@@ -1,11 +1,11 @@
-package mission;
+package mission.q14;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.LinkedList;
 import java.util.Scanner;
-
-import mission.jayoung.q14.Student;
 
 public class Manager {
 
