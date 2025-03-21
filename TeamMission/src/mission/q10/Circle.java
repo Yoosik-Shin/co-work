@@ -7,6 +7,9 @@ public class Circle {
 	private double       radius;
 
 	// 생성자
+	public Circle() {
+	}
+
 	public Circle(double radius) {
 		this.radius = radius;
 	}

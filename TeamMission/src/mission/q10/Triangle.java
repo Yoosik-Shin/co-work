@@ -6,6 +6,9 @@ public class Triangle {
 	private double height;
 
 	// 생성자
+	public Triangle() {
+	}
+
 	public Triangle(double width, double height) {
 		this.width  = width;
 		this.height = height;
