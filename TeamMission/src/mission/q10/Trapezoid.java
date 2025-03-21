@@ -1,4 +1,4 @@
-package mission.jayoung.q10;
+package mission.q10;
 
 public class Trapezoid {
 

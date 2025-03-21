@@ -1,4 +1,4 @@
-package mission.jayoung.q14;
+package mission.q14;
 
 public class Student {
 
